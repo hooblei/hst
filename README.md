@@ -19,12 +19,20 @@ function render(ctx) {
 }
 ```
 
+## Install
+
+    $ npm install hst
+
+## Usage
+
+    $ browserify -t [ hst ] main.js > build/bundle.js
+
 ### TODOs:
 
 * Options to configure the tag expression
 * SVG (html2hs)
 * Prettify + recast context
-* A bit more of these testing stuff
+* A bit more of this testing stuff
 
 [1] https://github.com/Matt-Esch/virtual-dom/tree/master/virtual-hyperscript
 
