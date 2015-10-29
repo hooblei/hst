@@ -1,7 +1,7 @@
 # hst
 
 A browserify transformer wich transforms a HTML es6 tagged template expression
-into hyperscript [1]
+into hyperscript [1] ... magic
 
 ```javascript
 function render(ctx) {
