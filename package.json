@@ -9,7 +9,7 @@
   "author": "me@cubeball.net",
   "license": "MIT",
   "dependencies": {
-    "html2hs": "^0.0.1",
+    "html2hs": "git+https://github.com/hooblei/html2hs#master",
     "recast": "^0.10.34",
     "through2": "^2.0.0"
   }
